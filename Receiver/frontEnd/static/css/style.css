@@ -1,0 +1,10 @@
+h1 {
+    color: brown;
+    font-size: 100px;
+}
+
+#content {
+    font-size: 120px;
+    margin: auto;
+    width: 100vh;
+}
