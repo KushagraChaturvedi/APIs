@@ -8,3 +8,8 @@ h1 {
     margin: auto;
     width: 100vh;
 }
+
+.fit {
+    max-width: 99%;
+    max-height: 99%;
+  }
